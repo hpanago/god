@@ -9,7 +9,9 @@ elif [[ $1 = "fuck" ]]; then
 elif [[ "$1 $2 $3" = "are you there?" ]]; then          
   echo "Maybe"                                            
 elif [[ "$1 $2 $3" = "are you there" ]]; then           
-  echo "Are you asking me or telling me?"                 
+  echo "Are you asking me or telling me?"
+elif [[ "$1" = "bless" ]]; then
+	echo "Amen!"
 elif [[ -z  $1 ]]; then                                 
   echo "Yes?"                                          
 fi     
