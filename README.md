@@ -18,4 +18,6 @@ You wanna talk about it?
 order@chaos:~$ god fuck                 
 This is getting out of hand                        
 order@chaos:~$ god                    
-Yes?                                              
+Yes?
+order@chaos:~$ god bless
+Amen!                                              
